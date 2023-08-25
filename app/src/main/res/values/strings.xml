@@ -1,0 +1,42 @@
+<resources>
+    <!--Application Info-->
+    <string name="app_name">Rosary</string>
+    <string name="license">"The MIT License (MIT)\n\nCopyright © 2023 Daniel Sebastian Vono\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+
+    <!--Bead Content Descriptions-->
+    <string name="Cru">Crucifix</string>
+    <string name="CP">Center piece</string>
+    <string name="LB">Large bead</string>
+    <string name="SB">Small bead</string>
+
+    <!--Button and Text Content Descriptions-->
+    <string name="Prayers">Prayers</string>
+    <string name="Reset">Reset</string>
+    <string name="Settings">Settings</string>
+    <string name="ViewLicense">View License</string>
+    <string name="RemoveLicense">Remove License</string>
+    <string name="Clockwise">Pray\nClockwise</string>
+    <string name="Counterclockwise">Pray\nCounterclockwise</string>
+
+    <!--Universal Prayers-->
+    <string name="ApostlesCreed">I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, His only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; He descended into hell; on the third day He rose again from the dead; He ascended into heaven, and is seated at the right hand of God the Father almighty; from there He will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.</string>
+    <string name="OurFather">Our Father, Who art in heaven, hallowed be Thy name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, but deliver us from evil, Amen.</string>
+    <string name="HailMary">Hail Mary, full of grace. The Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death, Amen.</string>
+    <string name="GloryBe">Glory be to the Father, the Son, and the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.</string>
+
+    <!--Rosary Prayers-->
+    <string name="OMyJesus">O my Jesus, forgive us our sins, save us from the fires of hell; lead all souls to heaven especially those who are in most need of Thy mercy. Amen.</string>
+    <string name="HailHolyQueen">Hail, holy Queen, mother of mercy, our life, our sweetness, and our hope. To thee we cry, poor banished children of Eve; to thee we send up our sighs, mourning and weeping in this valley of tears. Turn, then, most gracious advocate, thine eyes of mercy toward us; and after this, our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.\n\nPray for us, O holy Mother of God.\nThat we may be made worthy of the promises of Christ.</string>
+    <string name="LetUsPray">Let us pray.</string>
+    <string name="RosaryConclusion">O God, whose only-begotten Son, by His life, death and Resurrection, has purchased for us the rewards of eternal salvation; grant, we beseech thee, that while meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ, our Lord. Amen.</string>
+
+    <!--Divine Mercy Prayers-->
+    <string name="MercyIntroduction">"You expired, Jesus, but the source of life gushed forth for souls, and the ocean of mercy opened up for the whole world. O Fount of Life, unfathomable Divine Mercy, envelop the whole world and empty Yourself out upon us.\n\nO Blood and Water, which gushed forth from the Heart of Jesus as a fount of mercy for us, I trust in You!\nO Blood and Water, which gushed forth from the Heart of Jesus as a fount of mercy for us, I trust in You!\nO Blood and Water, which gushed forth from the Heart of Jesus as a fount of mercy for us, I trust in You!"</string>
+    <string name="EternalFather">Eternal Father, I offer you the Body and Blood, Soul and Divinity of Your Dearly Beloved Son, Our Lord, Jesus Christ, in atonement for our sins and those of the whole world.</string>
+    <string name="SorrowfulPassion">For the sake of His sorrowful Passion, have mercy on us and on the whole world.</string>
+    <string name="HolyGodX3">Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.\nHoly God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.\nHoly God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.</string>
+    <string name="EternalGod">Eternal God, in whom mercy is endless and the treasury of compassion — inexhaustible, look kindly upon us and increase Your mercy in us, that in difficult moments we might not despair nor become despondent, but with great confidence submit ourselves to Your holy will, which is Love and Mercy itself.</string>
+
+    <!--Prayer Conclusion-->
+    <string name="SignOfCross">In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</string>
+</resources>
